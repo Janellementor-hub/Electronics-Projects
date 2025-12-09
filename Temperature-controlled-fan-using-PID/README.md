@@ -6,6 +6,11 @@ The system measures ambient temperature using the NTC thermistor, processes the 
 This project combines electronics, control systems, and microcontroller programming to create a compact and efficient temperature control solution for a chicken coop.
 
 <h3>Features</h3>
+<ul>
+  <li>Real-time Temperature Readings</li>
+  <li>LCD Display</li>
+  <li>PID Fan Speed Control</li>
+</ul>
 
 <h3>Hardware Used</h3>
 <ul>
@@ -24,5 +29,7 @@ This project combines electronics, control systems, and microcontroller programm
 
 <h3>Improvements</h3>
 <ul>
-  <li></li>
+  <li>Replacing Soldering Iron with a proper internal heat source</li>
+  <li>Addition of Exhaust Air Temperature Monitoring</li>
+  <li>Incorporating data into an IoT system</li>
 </ul>
