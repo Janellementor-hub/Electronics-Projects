@@ -20,7 +20,7 @@ This project combines electronics, control systems, and microcontroller programm
 </ul>
 
 <h3>Schematic</h3>
-<img src="file:///Users/janellementor/Downloads/Schematic.png" alt="Schematic.png">
+<img src="[file:///Users/janellementor/Downloads/Schematic.png](https://github.com/Janellementor-hub/Electronics-Projects/blob/main/Temperature-controlled-fan-using-PID/documentation/Schematic.png)" alt="Schematic.png">
 
 <h3>Improvements</h3>
 <ul>
