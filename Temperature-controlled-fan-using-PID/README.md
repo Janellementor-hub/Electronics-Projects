@@ -2,8 +2,10 @@
 <p>A closed-loop control system that uses a thermistor, PID control algorithm, and a microcontroller PWM output to adjust fan speed in real time. This project demonstrates the application of embedded systems, sensor integration, control theory and hardware implementation. </p>
 
 <h3>Project Overview</h3>
-The system measures ambient temperature using the NTC thermistor, processes the sensor data through a PID controller, and adjusts a 12V DC brushless motor fan to maintain a set temperature.
+The system measures ambient temperature using the NTC thermistor, processes the sensor data through a PID controller, and adjusts a 12V DC brushless fan to maintain a set temperature.
 This project combines electronics, control systems, and microcontroller programming to create a compact and efficient temperature control solution for a chicken coop.
+
+<h3>Features</h3>
 
 <h3>Hardware Used</h3>
 <ul>
@@ -17,3 +19,9 @@ This project combines electronics, control systems, and microcontroller programm
   <li>16X2 LCD Display</li>
 </ul>
 
+<h3>Schematic</h3>
+
+<h3>Improvements</h3>
+<ul>
+  <li></li>
+</ul>
